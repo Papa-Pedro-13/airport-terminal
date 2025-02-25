@@ -88,7 +88,7 @@ app.get('/flights', authenticateToken, async (req, res) => {
 });
 
 // Запуск сервера
-const PORT = 3000;
+const PORT = 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
