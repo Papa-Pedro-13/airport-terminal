@@ -5,6 +5,8 @@ services:
     build: ./backend
     ports:
       - "5000:5000"
+    restart: unless-stopped
+    container_name: backend
     volumes:
       - ./backend/database.db:/app/database.db # Монтируем файл базы данных
       - /app/node_modules
@@ -13,6 +15,8 @@ services:
 
   frontend:
     build: ./frontend
+    restart: unless-stopped
+    container_name: frontend
     ports:
       - "80:80"
     depends_on:
