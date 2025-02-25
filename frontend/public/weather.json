@@ -1,0 +1,41 @@
+{
+  "request": {
+    "type": "City",
+    "query": "Saint Petersburg, Russia",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Saint Petersburg",
+    "country": "Russia",
+    "region": "Saint Petersburg City",
+    "lat": "59.894",
+    "lon": "30.264",
+    "timezone_id": "Europe/Moscow",
+    "localtime": "2025-02-20 19:38",
+    "localtime_epoch": 1740080280,
+    "utc_offset": "3.0"
+  },
+  "current": {
+    "observation_time": "04:38 PM",
+    "temperature": -4,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+    ],
+    "weather_descriptions": [
+      "Clear"
+    ],
+    "wind_speed": 10,
+    "wind_degree": 217,
+    "wind_dir": "SW",
+    "pressure": 1032,
+    "precip": 0,
+    "humidity": 80,
+    "cloudcover": 0,
+    "feelslike": -8,
+    "uv_index": 0,
+    "visibility": 10,
+    "is_day": "no"
+  }
+}

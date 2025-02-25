@@ -1,0 +1,4987 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 473
+  },
+  "data": [
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:20:00+00:00",
+        "estimated": "2025-02-21T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Koltsovo International",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "SVX",
+        "icao": "USSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T05:05:00+00:00",
+        "estimated": "2025-02-21T05:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6401",
+        "iata": "SU6401",
+        "icao": "AFL6401",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:35:00+00:00",
+        "estimated": "2025-02-21T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Orenburg",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "REN",
+        "icao": "UWOO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T05:25:00+00:00",
+        "estimated": "2025-02-21T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "2852",
+        "iata": "SU2852",
+        "icao": "AFL2852",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:05:00+00:00",
+        "estimated": "2025-02-21T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bolshoye Savino",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "PEE",
+        "icao": "USPP",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T04:25:00+00:00",
+        "estimated": "2025-02-21T04:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6581",
+        "iata": "SU6581",
+        "icao": "AFL6581",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T01:05:00+00:00",
+        "estimated": "2025-02-21T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T06:55:00+00:00",
+        "estimated": "2025-02-21T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwind Airlines",
+        "iata": "2S",
+        "icao": "STW"
+      },
+      "flight": {
+        "number": "114",
+        "iata": "2S114",
+        "icao": "STW114",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:30:00+00:00",
+        "estimated": "2025-02-21T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bolshoye Savino",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "PEE",
+        "icao": "USPP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T04:55:00+00:00",
+        "estimated": "2025-02-21T04:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "1569",
+        "iata": "DP1569",
+        "icao": "PBD1569",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:25:00+00:00",
+        "estimated": "2025-02-21T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T05:25:00+00:00",
+        "estimated": "2025-02-21T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6461",
+        "iata": "SU6461",
+        "icao": "AFL6461",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:25:00+00:00",
+        "estimated": "2025-02-21T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T08:00:00+00:00",
+        "estimated": "2025-02-21T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "flydubai",
+        "iata": "FZ",
+        "icao": "FDB"
+      },
+      "flight": {
+        "number": "992",
+        "iata": "FZ992",
+        "icao": "FDB992",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:35:00+00:00",
+        "estimated": "2025-02-21T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Gorno-Altaysk",
+        "timezone": "Asia/Omsk",
+        "iata": "RGK",
+        "icao": "UNBG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T09:10:00+00:00",
+        "estimated": "2025-02-21T09:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6829",
+        "iata": "SU6829",
+        "icao": "AFL6829",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:20:00+00:00",
+        "estimated": "2025-02-21T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bolshoye Savino",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "PEE",
+        "icao": "USPP",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T04:50:00+00:00",
+        "estimated": "2025-02-21T04:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "569",
+        "iata": "DP569",
+        "icao": "PBD569",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2025-02-21T00:30:00+00:00",
+        "estimated": "2025-02-21T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T05:40:00+00:00",
+        "estimated": "2025-02-21T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AZAL Azerbaijan Airlines",
+        "iata": "J2",
+        "icao": "AHY"
+      },
+      "flight": {
+        "number": "20",
+        "iata": "J220",
+        "icao": "AHY20",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2025-02-21T00:30:00+00:00",
+        "estimated": "2025-02-21T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T05:40:00+00:00",
+        "estimated": "2025-02-21T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "S7 Airlines",
+        "iata": "S7",
+        "icao": "SBI"
+      },
+      "flight": {
+        "number": "4105",
+        "iata": "S74105",
+        "icao": "SBI4105",
+        "codeshared": {
+          "airline_name": "azal azerbaijan airlines",
+          "airline_iata": "j2",
+          "airline_icao": "ahy",
+          "flight_number": "20",
+          "flight_iata": "j220",
+          "flight_icao": "ahy20"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:10:00+00:00",
+        "estimated": "2025-02-21T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sheremetyevo International",
+        "timezone": "Europe/Moscow",
+        "iata": "SVO",
+        "icao": "UUEE",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T01:50:00+00:00",
+        "estimated": "2025-02-21T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "29",
+        "iata": "SU29",
+        "icao": "AFL29",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "38",
+        "delay": 35,
+        "scheduled": "2025-02-20T07:40:00+00:00",
+        "estimated": "2025-02-20T07:40:00+00:00",
+        "actual": "2025-02-20T08:14:00+00:00",
+        "estimated_runway": "2025-02-20T08:14:00+00:00",
+        "actual_runway": "2025-02-20T08:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:10:00+00:00",
+        "estimated": "2025-02-20T11:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6231",
+        "iata": "FV6231",
+        "icao": "SDM6231",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T18:05:00+00:00",
+        "estimated": "2025-02-20T18:05:00+00:00",
+        "actual": "2025-02-20T17:37:00+00:00",
+        "estimated_runway": "2025-02-20T17:37:00+00:00",
+        "actual_runway": "2025-02-20T17:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kirov",
+        "timezone": "Europe/Volgograd",
+        "iata": "KVX",
+        "icao": "USKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T20:05:00+00:00",
+        "estimated": "2025-02-20T20:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "513",
+        "iata": "DP513",
+        "icao": "PBD513",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73301",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E55"
+      },
+      "live": {
+        "updated": "2025-02-20T16:20:56+00:00",
+        "latitude": 58.7395,
+        "longitude": 48.6227,
+        "altitude": 10629.9,
+        "direction": 117,
+        "speed_horizontal": 814.88,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T08:45:00+00:00",
+        "estimated": "2025-02-20T08:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T12:00:00+00:00",
+        "estimated": "2025-02-20T12:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "545",
+        "iata": "5N545",
+        "icao": "AUL545",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T14:55:00+00:00",
+        "estimated": "2025-02-20T14:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:20:00+00:00",
+        "estimated": "2025-02-20T19:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "547",
+        "iata": "5N547",
+        "icao": "AUL547",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:25:00+00:00",
+        "estimated": "2025-02-20T13:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T14:20:00+00:00",
+        "estimated": "2025-02-20T14:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "587",
+        "iata": "DP587",
+        "icao": "PBD587",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:40:00+00:00",
+        "estimated": "2025-02-20T19:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T22:55:00+00:00",
+        "estimated": "2025-02-20T22:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "305",
+        "iata": "DP305",
+        "icao": "PBD305",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T00:30:00+00:00",
+        "estimated": "2025-02-20T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Irkutsk",
+        "timezone": "Asia/Irkutsk",
+        "iata": "IKT",
+        "icao": "UIII",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:25:00+00:00",
+        "estimated": "2025-02-20T11:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6001",
+        "iata": "SU6001",
+        "icao": "AFL6001",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73192",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151DE8"
+      },
+      "live": {
+        "updated": "2025-02-20T04:31:14+00:00",
+        "latitude": 52.2714,
+        "longitude": 104.366,
+        "altitude": 0,
+        "direction": 199,
+        "speed_horizontal": 1.852,
+        "speed_vertical": 0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T08:10:00+00:00",
+        "estimated": "2025-02-20T08:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:05:00+00:00",
+        "estimated": "2025-02-20T13:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "313",
+        "iata": "DP313",
+        "icao": "PBD313",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T18:15:00+00:00",
+        "estimated": "2025-02-20T18:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kazan",
+        "timezone": "Europe/Moscow",
+        "iata": "KZN",
+        "icao": "UWKD",
+        "terminal": "1A 2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T20:20:00+00:00",
+        "estimated": "2025-02-20T20:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "547",
+        "iata": "DP547",
+        "icao": "PBD547",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "21",
+        "delay": 35,
+        "scheduled": "2025-02-20T06:35:00+00:00",
+        "estimated": "2025-02-20T06:35:00+00:00",
+        "actual": "2025-02-20T07:09:00+00:00",
+        "estimated_runway": "2025-02-20T07:09:00+00:00",
+        "actual_runway": "2025-02-20T07:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:15:00+00:00",
+        "estimated": "2025-02-20T11:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6559",
+        "iata": "FV6559",
+        "icao": "SDM6559",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 19,
+        "scheduled": "2025-02-20T15:15:00+00:00",
+        "estimated": "2025-02-20T15:15:00+00:00",
+        "actual": "2025-02-20T15:34:00+00:00",
+        "estimated_runway": "2025-02-20T15:34:00+00:00",
+        "actual_runway": "2025-02-20T15:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:55:00+00:00",
+        "estimated": "2025-02-20T19:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6561",
+        "iata": "FV6561",
+        "icao": "SDM6561",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T21:05:00+00:00",
+        "estimated": "2025-02-20T21:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:25:00+00:00",
+        "estimated": "2025-02-21T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "904",
+        "iata": "5N904",
+        "icao": "AUL904",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "cancelled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:55:00+00:00",
+        "estimated": "2025-02-20T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T18:00:00+00:00",
+        "estimated": "2025-02-20T18:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "402",
+        "iata": "TK402",
+        "icao": "THY402",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 7,
+        "scheduled": "2025-02-20T13:00:00+00:00",
+        "estimated": "2025-02-20T13:00:00+00:00",
+        "actual": "2025-02-20T13:06:00+00:00",
+        "estimated_runway": "2025-02-20T13:06:00+00:00",
+        "actual_runway": "2025-02-20T13:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T17:35:00+00:00",
+        "estimated": "2025-02-20T17:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6567",
+        "iata": "FV6567",
+        "icao": "SDM6567",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "69",
+        "delay": 26,
+        "scheduled": "2025-02-20T09:55:00+00:00",
+        "estimated": "2025-02-20T09:55:00+00:00",
+        "actual": "2025-02-20T10:21:00+00:00",
+        "estimated_runway": "2025-02-20T10:21:00+00:00",
+        "actual_runway": "2025-02-20T10:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T10:55:00+00:00",
+        "estimated": "2025-02-20T10:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ural Airlines",
+        "iata": "U6",
+        "icao": "SVR"
+      },
+      "flight": {
+        "number": "391",
+        "iata": "U6391",
+        "icao": "SVR391",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73837",
+        "iata": "A21N",
+        "icao": "A21N",
+        "icao24": "15206D"
+      },
+      "live": {
+        "updated": "2025-02-20T08:47:13+00:00",
+        "latitude": 55.0423,
+        "longitude": 20.8621,
+        "altitude": 853.44,
+        "direction": 174,
+        "speed_horizontal": 381.512,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "57",
+        "delay": 39,
+        "scheduled": "2025-02-20T11:05:00+00:00",
+        "estimated": "2025-02-20T11:05:00+00:00",
+        "actual": "2025-02-20T11:43:00+00:00",
+        "estimated_runway": "2025-02-20T11:43:00+00:00",
+        "actual_runway": "2025-02-20T11:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 38,
+        "scheduled": "2025-02-20T15:10:00+00:00",
+        "estimated": "2025-02-20T15:10:00+00:00",
+        "actual": "2025-02-20T15:48:00+00:00",
+        "estimated_runway": "2025-02-20T15:48:00+00:00",
+        "actual_runway": "2025-02-20T15:48:00+00:00"
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "2802",
+        "iata": "SU2802",
+        "icao": "AFL2802",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73776",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "152030"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "57",
+        "delay": 42,
+        "scheduled": "2025-02-20T09:35:00+00:00",
+        "estimated": "2025-02-20T09:35:00+00:00",
+        "actual": "2025-02-20T10:17:00+00:00",
+        "estimated_runway": "2025-02-20T10:17:00+00:00",
+        "actual_runway": "2025-02-20T10:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 2,
+        "scheduled": "2025-02-20T13:40:00+00:00",
+        "estimated": "2025-02-20T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "2856",
+        "iata": "SU2856",
+        "icao": "AFL2856",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73777",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "152031"
+      },
+      "live": {
+        "updated": "2025-02-20T11:17:03+00:00",
+        "latitude": 43.2616,
+        "longitude": 39.7275,
+        "altitude": 1226.82,
+        "direction": 234,
+        "speed_horizontal": 322.248,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 42,
+        "scheduled": "2025-02-20T09:20:00+00:00",
+        "estimated": "2025-02-20T09:20:00+00:00",
+        "actual": "2025-02-20T10:01:00+00:00",
+        "estimated_runway": "2025-02-20T10:01:00+00:00",
+        "actual_runway": "2025-02-20T10:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 23,
+        "scheduled": "2025-02-20T12:35:00+00:00",
+        "estimated": "2025-02-20T12:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "531",
+        "iata": "5N531",
+        "icao": "AUL531",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73657",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151FB9"
+      },
+      "live": {
+        "updated": "2025-02-20T09:00:42+00:00",
+        "latitude": 53.7462,
+        "longitude": 49.7488,
+        "altitude": 1775.46,
+        "direction": 110,
+        "speed_horizontal": 425.96,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T06:35:00+00:00",
+        "estimated": "2025-02-20T06:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:15:00+00:00",
+        "estimated": "2025-02-20T11:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6559",
+        "iata": "SU6559",
+        "icao": "AFL6559",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73214",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "151DFE"
+      },
+      "live": {
+        "updated": "2025-02-20T08:03:43+00:00",
+        "latitude": 43.2537,
+        "longitude": 39.6723,
+        "altitude": 944.88,
+        "direction": 303,
+        "speed_horizontal": 346.324,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "69",
+        "delay": 23,
+        "scheduled": "2025-02-20T06:55:00+00:00",
+        "estimated": "2025-02-20T06:55:00+00:00",
+        "actual": "2025-02-20T07:18:00+00:00",
+        "estimated_runway": "2025-02-20T07:18:00+00:00",
+        "actual_runway": "2025-02-20T07:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Sochi/Adler International Airport",
+        "timezone": "Europe/Moscow",
+        "iata": "AER",
+        "icao": "URSS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:25:00+00:00",
+        "estimated": "2025-02-20T11:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ural Airlines",
+        "iata": "U6",
+        "icao": "SVR"
+      },
+      "flight": {
+        "number": "547",
+        "iata": "U6547",
+        "icao": "SVR547",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73800",
+        "iata": "A21N",
+        "icao": "A21N",
+        "icao24": "152048"
+      },
+      "live": {
+        "updated": "2025-02-20T08:14:11+00:00",
+        "latitude": 43.4043,
+        "longitude": 39.8232,
+        "altitude": 434.34,
+        "direction": 65,
+        "speed_horizontal": 262.984,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "22",
+        "delay": 34,
+        "scheduled": "2025-02-20T02:20:00+00:00",
+        "estimated": "2025-02-20T02:20:00+00:00",
+        "actual": "2025-02-20T02:53:00+00:00",
+        "estimated_runway": "2025-02-20T02:53:00+00:00",
+        "actual_runway": "2025-02-20T02:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Almaty",
+        "timezone": "Asia/Almaty",
+        "iata": "ALA",
+        "icao": "UAAA",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "6",
+        "delay": 25,
+        "scheduled": "2025-02-20T09:15:00+00:00",
+        "estimated": "2025-02-20T09:15:00+00:00",
+        "actual": "2025-02-20T09:40:00+00:00",
+        "estimated_runway": "2025-02-20T09:40:00+00:00",
+        "actual_runway": "2025-02-20T09:40:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6531",
+        "iata": "FV6531",
+        "icao": "SDM6531",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T02:20:00+00:00",
+        "estimated": "2025-02-20T02:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Almaty",
+        "timezone": "Asia/Almaty",
+        "iata": "ALA",
+        "icao": "UAAA",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "6",
+        "delay": null,
+        "scheduled": "2025-02-20T09:15:00+00:00",
+        "estimated": "2025-02-20T09:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6531",
+        "iata": "SU6531",
+        "icao": "AFL6531",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73217",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "151E01"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 25,
+        "scheduled": "2025-02-20T08:50:00+00:00",
+        "estimated": "2025-02-20T08:50:00+00:00",
+        "actual": "2025-02-20T09:14:00+00:00",
+        "estimated_runway": "2025-02-20T09:14:00+00:00",
+        "actual_runway": "2025-02-20T09:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 11,
+        "scheduled": "2025-02-20T10:20:00+00:00",
+        "estimated": "2025-02-20T10:20:00+00:00",
+        "actual": "2025-02-20T10:30:00+00:00",
+        "estimated_runway": "2025-02-20T10:30:00+00:00",
+        "actual_runway": "2025-02-20T10:30:00+00:00"
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "146",
+        "iata": "5N146",
+        "icao": "AUL146",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73651",
+        "iata": "B737",
+        "icao": "B737",
+        "icao24": "151FB3"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": null,
+        "scheduled": "2025-02-20T21:20:00+00:00",
+        "estimated": "2025-02-20T21:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kazan",
+        "timezone": "Europe/Moscow",
+        "iata": "KZN",
+        "icao": "UWKD",
+        "terminal": "1A 2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T23:30:00+00:00",
+        "estimated": "2025-02-20T23:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6595",
+        "iata": "FV6595",
+        "icao": "SDM6595",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:40:00+00:00",
+        "estimated": "2025-02-20T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kazan",
+        "timezone": "Europe/Moscow",
+        "iata": "KZN",
+        "icao": "UWKD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T15:45:00+00:00",
+        "estimated": "2025-02-20T15:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "597",
+        "iata": "5N597",
+        "icao": "AUL597",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2025-02-20T18:05:00+00:00",
+        "estimated": "2025-02-20T18:05:00+00:00",
+        "actual": "2025-02-20T18:15:00+00:00",
+        "estimated_runway": "2025-02-20T18:15:00+00:00",
+        "actual_runway": "2025-02-20T18:15:00+00:00"
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:35:00+00:00",
+        "estimated": "2025-02-20T19:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "148",
+        "iata": "5N148",
+        "icao": "AUL148",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73651",
+        "iata": "B737",
+        "icao": "B737",
+        "icao24": "151FB3"
+      },
+      "live": {
+        "updated": "2025-02-20T16:19:00+00:00",
+        "latitude": 63.9603,
+        "longitude": 39.2777,
+        "altitude": 6553.2,
+        "direction": 58,
+        "speed_horizontal": 651.904,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T20:30:00+00:00",
+        "estimated": "2025-02-20T20:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T23:45:00+00:00",
+        "estimated": "2025-02-20T23:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "1581",
+        "iata": "5N1581",
+        "icao": "AUL1581",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T01:05:00+00:00",
+        "estimated": "2025-02-20T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T02:30:00+00:00",
+        "estimated": "2025-02-20T02:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "150",
+        "iata": "5N150",
+        "icao": "AUL150",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T22:25:00+00:00",
+        "estimated": "2025-02-20T22:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T23:55:00+00:00",
+        "estimated": "2025-02-20T23:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "152",
+        "iata": "5N152",
+        "icao": "AUL152",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "11",
+        "delay": 42,
+        "scheduled": "2025-02-20T12:35:00+00:00",
+        "estimated": "2025-02-20T12:35:00+00:00",
+        "actual": "2025-02-20T13:16:00+00:00",
+        "estimated_runway": "2025-02-20T13:16:00+00:00",
+        "actual_runway": "2025-02-20T13:16:00+00:00"
+      },
+      "arrival": {
+        "airport": "Irkutsk",
+        "timezone": "Asia/Irkutsk",
+        "iata": "IKT",
+        "icao": "UIII",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": 21,
+        "scheduled": "2025-02-20T23:30:00+00:00",
+        "estimated": "2025-02-20T23:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "S7 Airlines",
+        "iata": "S7",
+        "icao": "SBI"
+      },
+      "flight": {
+        "number": "6344",
+        "iata": "S76344",
+        "icao": "SBI6344",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73409",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151EC1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "38",
+        "delay": 90,
+        "scheduled": "2025-02-20T08:00:00+00:00",
+        "estimated": "2025-02-20T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T09:45:00+00:00",
+        "estimated": "2025-02-20T09:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6303",
+        "iata": "FV6303",
+        "icao": "SDM6303",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 42,
+        "scheduled": "2025-02-20T13:30:00+00:00",
+        "estimated": "2025-02-20T13:30:00+00:00",
+        "actual": "2025-02-20T14:11:00+00:00",
+        "estimated_runway": "2025-02-20T14:11:00+00:00",
+        "actual_runway": "2025-02-20T14:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": 11,
+        "scheduled": "2025-02-20T14:25:00+00:00",
+        "estimated": "2025-02-20T14:25:00+00:00",
+        "actual": "2025-02-20T14:36:00+00:00",
+        "estimated_runway": "2025-02-20T14:36:00+00:00",
+        "actual_runway": "2025-02-20T14:36:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6333",
+        "iata": "FV6333",
+        "icao": "SDM6333",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 11,
+        "scheduled": "2025-02-20T16:20:00+00:00",
+        "estimated": "2025-02-20T16:20:00+00:00",
+        "actual": "2025-02-20T16:31:00+00:00",
+        "estimated_runway": "2025-02-20T16:31:00+00:00",
+        "actual_runway": "2025-02-20T16:31:00+00:00"
+      },
+      "arrival": {
+        "airport": "Arkhangelsk",
+        "timezone": "Europe/Moscow",
+        "iata": "ARH",
+        "icao": "ULAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 51,
+        "scheduled": "2025-02-20T17:50:00+00:00",
+        "estimated": "2025-02-20T17:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6307",
+        "iata": "FV6307",
+        "icao": "SDM6307",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T10:00:00+00:00",
+        "estimated": "2025-02-20T10:00:00+00:00",
+        "actual": "2025-02-20T09:16:00+00:00",
+        "estimated_runway": "2025-02-20T09:16:00+00:00",
+        "actual_runway": "2025-02-20T09:16:00+00:00"
+      },
+      "arrival": {
+        "airport": "Astrakhan",
+        "timezone": "Europe/Volgograd",
+        "iata": "ASF",
+        "icao": "URWA",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T14:20:00+00:00",
+        "estimated": "2025-02-20T14:20:00+00:00",
+        "actual": "2025-02-20T13:03:00+00:00",
+        "estimated_runway": "2025-02-20T13:03:00+00:00",
+        "actual_runway": "2025-02-20T13:03:00+00:00"
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "519",
+        "iata": "DP519",
+        "icao": "PBD519",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73301",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E55"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": 185,
+        "scheduled": "2025-02-20T18:10:00+00:00",
+        "estimated": "2025-02-20T18:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:05:00+00:00",
+        "estimated": "2025-02-20T19:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "535",
+        "iata": "DP535",
+        "icao": "PBD535",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "48",
+        "delay": 39,
+        "scheduled": "2025-02-20T11:50:00+00:00",
+        "estimated": "2025-02-20T11:50:00+00:00",
+        "actual": "2025-02-20T12:29:00+00:00",
+        "estimated_runway": "2025-02-20T12:29:00+00:00",
+        "actual_runway": "2025-02-20T12:29:00+00:00"
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": "C30",
+        "baggage": null,
+        "delay": 3,
+        "scheduled": "2025-02-20T19:10:00+00:00",
+        "estimated": "2025-02-20T19:10:00+00:00",
+        "actual": "2025-02-20T19:20:00+00:00",
+        "estimated_runway": "2025-02-20T19:20:00+00:00",
+        "actual_runway": "2025-02-20T19:20:00+00:00"
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "854",
+        "iata": "EY854",
+        "icao": "ETD854",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A6-BND",
+        "iata": "B789",
+        "icao": "B789",
+        "icao24": "89653B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "45",
+        "delay": 15,
+        "scheduled": "2025-02-20T09:35:00+00:00",
+        "estimated": "2025-02-20T09:35:00+00:00",
+        "actual": "2025-02-20T09:50:00+00:00",
+        "estimated_runway": "2025-02-20T09:50:00+00:00",
+        "actual_runway": "2025-02-20T09:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "205",
+        "delay": null,
+        "scheduled": "2025-02-20T15:25:00+00:00",
+        "estimated": "2025-02-20T15:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6961",
+        "iata": "FV6961",
+        "icao": "SDM6961",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "81",
+        "delay": 3,
+        "scheduled": "2025-02-20T02:55:00+00:00",
+        "estimated": "2025-02-20T02:55:00+00:00",
+        "actual": "2025-02-20T02:57:00+00:00",
+        "estimated_runway": "2025-02-20T02:57:00+00:00",
+        "actual_runway": "2025-02-20T02:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "205",
+        "delay": null,
+        "scheduled": "2025-02-20T07:05:00+00:00",
+        "estimated": "2025-02-20T07:05:00+00:00",
+        "actual": "2025-02-20T06:34:00+00:00",
+        "estimated_runway": "2025-02-20T06:34:00+00:00",
+        "actual_runway": "2025-02-20T06:34:00+00:00"
+      },
+      "airline": {
+        "name": "Pegasus",
+        "iata": "PC",
+        "icao": "PGT"
+      },
+      "flight": {
+        "number": "1595",
+        "iata": "PC1595",
+        "icao": "PGT1595",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TC-NBL",
+        "iata": "A20N",
+        "icao": "A20N",
+        "icao24": "4BB84C"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "57",
+        "delay": 49,
+        "scheduled": "2025-02-20T04:45:00+00:00",
+        "estimated": "2025-02-20T04:45:00+00:00",
+        "actual": "2025-02-20T05:34:00+00:00",
+        "estimated_runway": "2025-02-20T05:34:00+00:00",
+        "actual_runway": "2025-02-20T05:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Belgrade Nikola Tesla",
+        "timezone": "Europe/Belgrade",
+        "iata": "BEG",
+        "icao": "LYBE",
+        "terminal": "2",
+        "gate": "C03",
+        "baggage": null,
+        "delay": 19,
+        "scheduled": "2025-02-20T05:35:00+00:00",
+        "estimated": "2025-02-20T05:35:00+00:00",
+        "actual": "2025-02-20T05:53:00+00:00",
+        "estimated_runway": "2025-02-20T05:53:00+00:00",
+        "actual_runway": "2025-02-20T05:53:00+00:00"
+      },
+      "airline": {
+        "name": "Air Serbia",
+        "iata": "JU",
+        "icao": "ASL"
+      },
+      "flight": {
+        "number": "125",
+        "iata": "JU125",
+        "icao": "ASL125",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "YU-APL",
+        "iata": "A319",
+        "icao": "A319",
+        "icao24": "4C01EB"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "84",
+        "delay": null,
+        "scheduled": "2025-02-20T22:40:00+00:00",
+        "estimated": "2025-02-20T22:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T12:40:00+00:00",
+        "estimated": "2025-02-21T12:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "620",
+        "iata": "SU620",
+        "icao": "AFL620",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "62",
+        "delay": 4,
+        "scheduled": "2025-02-20T09:25:00+00:00",
+        "estimated": "2025-02-20T09:25:00+00:00",
+        "actual": "2025-02-20T09:29:00+00:00",
+        "estimated_runway": "2025-02-20T09:29:00+00:00",
+        "actual_runway": "2025-02-20T09:29:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cherepovets",
+        "timezone": "Europe/Moscow",
+        "iata": "CEE",
+        "icao": "ULWC",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": 2,
+        "scheduled": "2025-02-20T10:20:00+00:00",
+        "estimated": "2025-02-20T10:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Severstal Aircompany",
+        "iata": "D2",
+        "icao": "SSF"
+      },
+      "flight": {
+        "number": "120",
+        "iata": "D2120",
+        "icao": "SSF120",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-67230",
+        "iata": "CRJ2",
+        "icao": "CRJ2",
+        "icao24": "15069E"
+      },
+      "live": {
+        "updated": "2025-02-20T07:22:15+00:00",
+        "latitude": 59.4941,
+        "longitude": 37.2715,
+        "altitude": 4640.58,
+        "direction": 112,
+        "speed_horizontal": 625.976,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "62",
+        "delay": 23,
+        "scheduled": "2025-02-20T02:20:00+00:00",
+        "estimated": "2025-02-20T02:20:00+00:00",
+        "actual": "2025-02-20T02:43:00+00:00",
+        "estimated_runway": "2025-02-20T02:43:00+00:00",
+        "actual_runway": "2025-02-20T02:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": "I",
+        "gate": null,
+        "baggage": "25",
+        "delay": null,
+        "scheduled": "2025-02-20T06:20:00+00:00",
+        "estimated": "2025-02-20T06:20:00+00:00",
+        "actual": "2025-02-20T05:44:00+00:00",
+        "estimated_runway": "2025-02-20T05:44:00+00:00",
+        "actual_runway": "2025-02-20T05:44:00+00:00"
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "404",
+        "iata": "TK404",
+        "icao": "THY404",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TC-JRN",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "4BAA4E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 4,
+        "scheduled": "2025-02-20T11:00:00+00:00",
+        "estimated": "2025-02-20T11:00:00+00:00",
+        "actual": "2025-02-20T11:04:00+00:00",
+        "estimated_runway": "2025-02-20T11:04:00+00:00",
+        "actual_runway": "2025-02-20T11:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kirovsk",
+        "timezone": "Europe/Volgograd",
+        "iata": "KVK",
+        "icao": "ULMK",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T12:55:00+00:00",
+        "estimated": "2025-02-20T12:55:00+00:00",
+        "actual": "2025-02-20T12:35:00+00:00",
+        "estimated_runway": "2025-02-20T12:35:00+00:00",
+        "actual_runway": "2025-02-20T12:35:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6813",
+        "iata": "FV6813",
+        "icao": "SDM6813",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "73",
+        "delay": null,
+        "scheduled": "2025-02-20T21:15:00+00:00",
+        "estimated": "2025-02-20T21:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cherepovets",
+        "timezone": "Europe/Moscow",
+        "iata": "CEE",
+        "icao": "ULWC",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T22:10:00+00:00",
+        "estimated": "2025-02-20T22:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Severstal Aircompany",
+        "iata": "D2",
+        "icao": "SSF"
+      },
+      "flight": {
+        "number": "122",
+        "iata": "D2122",
+        "icao": "SSF122",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": 13,
+        "scheduled": "2025-02-20T15:35:00+00:00",
+        "estimated": "2025-02-20T15:35:00+00:00",
+        "actual": "2025-02-20T15:48:00+00:00",
+        "estimated_runway": "2025-02-20T15:48:00+00:00",
+        "actual_runway": "2025-02-20T15:48:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T18:50:00+00:00",
+        "estimated": "2025-02-20T18:50:00+00:00",
+        "actual": "2025-02-20T18:42:00+00:00",
+        "estimated_runway": "2025-02-20T18:42:00+00:00",
+        "actual_runway": "2025-02-20T18:42:00+00:00"
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "581",
+        "iata": "5N581",
+        "icao": "AUL581",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73652",
+        "iata": "B737",
+        "icao": "B737",
+        "icao24": "151FB4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 27,
+        "scheduled": "2025-02-20T02:25:00+00:00",
+        "estimated": "2025-02-20T02:25:00+00:00",
+        "actual": "2025-02-20T02:51:00+00:00",
+        "estimated_runway": "2025-02-20T02:51:00+00:00",
+        "actual_runway": "2025-02-20T02:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": 8,
+        "scheduled": "2025-02-20T07:20:00+00:00",
+        "estimated": "2025-02-20T07:20:00+00:00",
+        "actual": "2025-02-20T07:27:00+00:00",
+        "estimated_runway": "2025-02-20T07:27:00+00:00",
+        "actual_runway": "2025-02-20T07:27:00+00:00"
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "527",
+        "iata": "5N527",
+        "icao": "AUL527",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73652",
+        "iata": "B737",
+        "icao": "B737",
+        "icao24": "151FB4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:05:00+00:00",
+        "estimated": "2025-02-20T11:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Pashkovsky",
+        "timezone": "Europe/Moscow",
+        "iata": "KRR",
+        "icao": "URKK",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T14:05:00+00:00",
+        "estimated": "2025-02-20T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "509",
+        "iata": "DP509",
+        "icao": "PBD509",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T23:55:00+00:00",
+        "estimated": "2025-02-20T23:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T04:55:00+00:00",
+        "estimated": "2025-02-21T04:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "549",
+        "iata": "DP549",
+        "icao": "PBD549",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 8,
+        "scheduled": "2025-02-20T08:45:00+00:00",
+        "estimated": "2025-02-20T08:45:00+00:00",
+        "actual": "2025-02-20T08:53:00+00:00",
+        "estimated_runway": "2025-02-20T08:53:00+00:00",
+        "actual_runway": "2025-02-20T08:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:40:00+00:00",
+        "estimated": "2025-02-20T13:40:00+00:00",
+        "actual": "2025-02-20T13:26:00+00:00",
+        "estimated_runway": "2025-02-20T13:26:00+00:00",
+        "actual_runway": "2025-02-20T13:26:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6459",
+        "iata": "FV6459",
+        "icao": "SDM6459",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "38",
+        "delay": 5,
+        "scheduled": "2025-02-20T07:55:00+00:00",
+        "estimated": "2025-02-20T07:55:00+00:00",
+        "actual": "2025-02-20T07:59:00+00:00",
+        "estimated_runway": "2025-02-20T07:59:00+00:00",
+        "actual_runway": "2025-02-20T07:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kazan",
+        "timezone": "Europe/Moscow",
+        "iata": "KZN",
+        "icao": "UWKD",
+        "terminal": "1A 2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T10:20:00+00:00",
+        "estimated": "2025-02-20T10:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6593",
+        "iata": "FV6593",
+        "icao": "SDM6593",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 44,
+        "scheduled": "2025-02-20T00:25:00+00:00",
+        "estimated": "2025-02-20T00:25:00+00:00",
+        "actual": "2025-02-20T01:08:00+00:00",
+        "estimated_runway": "2025-02-20T01:08:00+00:00",
+        "actual_runway": "2025-02-20T01:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": 21,
+        "scheduled": "2025-02-20T05:25:00+00:00",
+        "estimated": "2025-02-20T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6461",
+        "iata": "FV6461",
+        "icao": "SDM6461",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:25:00+00:00",
+        "estimated": "2025-02-20T19:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kazan",
+        "timezone": "Europe/Moscow",
+        "iata": "KZN",
+        "icao": "UWKD",
+        "terminal": "1A 2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T21:35:00+00:00",
+        "estimated": "2025-02-20T21:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "537",
+        "iata": "5N537",
+        "icao": "AUL537",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T00:25:00+00:00",
+        "estimated": "2025-02-20T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chelyabinsk",
+        "timezone": "Asia/Yekaterinburg",
+        "iata": "CEK",
+        "icao": "USCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T05:25:00+00:00",
+        "estimated": "2025-02-20T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6461",
+        "iata": "SU6461",
+        "icao": "AFL6461",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73196",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "151DEC"
+      },
+      "live": {
+        "updated": "2025-02-20T00:56:21+00:00",
+        "latitude": 55.2856,
+        "longitude": 61.6489,
+        "altitude": 541.02,
+        "direction": 283,
+        "speed_horizontal": 240.76,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T00:30:00+00:00",
+        "estimated": "2025-02-20T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kurumoch",
+        "timezone": "Europe/Samara",
+        "iata": "KUF",
+        "icao": "UWWW",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T03:45:00+00:00",
+        "estimated": "2025-02-20T03:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "1904",
+        "iata": "5N1904",
+        "icao": "AUL1904",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": 125,
+        "scheduled": "2025-02-20T12:45:00+00:00",
+        "estimated": "2025-02-20T12:45:00+00:00",
+        "actual": "2025-02-20T14:59:00+00:00",
+        "estimated_runway": "2025-02-20T14:59:00+00:00",
+        "actual_runway": "2025-02-20T14:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Cheboksary",
+        "timezone": "Europe/Moscow",
+        "iata": "CSY",
+        "icao": "UWKS",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": 117,
+        "scheduled": "2025-02-20T14:40:00+00:00",
+        "estimated": "2025-02-20T14:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "525",
+        "iata": "DP525",
+        "icao": "PBD525",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73304",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E58"
+      },
+      "live": {
+        "updated": "2025-02-20T13:43:20+00:00",
+        "latitude": 56.2085,
+        "longitude": 47.5406,
+        "altitude": 1158.24,
+        "direction": 76,
+        "speed_horizontal": 396.328,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T09:30:00+00:00",
+        "estimated": "2025-02-20T09:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T15:25:00+00:00",
+        "estimated": "2025-02-20T15:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "6963",
+        "iata": "SU6963",
+        "icao": "AFL6963",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73200",
+        "iata": "A319",
+        "icao": "A319",
+        "icao24": "151DF0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "11",
+        "delay": 16,
+        "scheduled": "2025-02-20T12:20:00+00:00",
+        "estimated": "2025-02-20T12:20:00+00:00",
+        "actual": "2025-02-20T12:36:00+00:00",
+        "estimated_runway": "2025-02-20T12:36:00+00:00",
+        "actual_runway": "2025-02-20T12:36:00+00:00"
+      },
+      "arrival": {
+        "airport": "Domodedovo",
+        "timezone": "Europe/Moscow",
+        "iata": "DME",
+        "icao": "UUDD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "C1",
+        "delay": null,
+        "scheduled": "2025-02-20T13:55:00+00:00",
+        "estimated": "2025-02-20T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "S7 Airlines",
+        "iata": "S7",
+        "icao": "SBI"
+      },
+      "flight": {
+        "number": "1012",
+        "iata": "S71012",
+        "icao": "SBI1012",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73419",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "151ECB"
+      },
+      "live": {
+        "updated": "2025-02-20T10:46:15+00:00",
+        "latitude": 55.2878,
+        "longitude": 37.9638,
+        "altitude": 1562.1,
+        "direction": 173,
+        "speed_horizontal": 514.856,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 58,
+        "scheduled": "2025-02-20T00:30:00+00:00",
+        "estimated": "2025-02-20T00:30:00+00:00",
+        "actual": "2025-02-20T01:27:00+00:00",
+        "estimated_runway": "2025-02-20T01:27:00+00:00",
+        "actual_runway": "2025-02-20T01:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "Irkutsk",
+        "timezone": "Asia/Irkutsk",
+        "iata": "IKT",
+        "icao": "UIII",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "delay": 45,
+        "scheduled": "2025-02-20T11:25:00+00:00",
+        "estimated": "2025-02-20T11:25:00+00:00",
+        "actual": "2025-02-20T12:09:00+00:00",
+        "estimated_runway": "2025-02-20T12:09:00+00:00",
+        "actual_runway": "2025-02-20T12:09:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6001",
+        "iata": "FV6001",
+        "icao": "SDM6001",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T17:05:00+00:00",
+        "estimated": "2025-02-20T17:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chertovitskoye",
+        "timezone": "Europe/Moscow",
+        "iata": "VOZ",
+        "icao": "UUOO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:05:00+00:00",
+        "estimated": "2025-02-20T19:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "575",
+        "iata": "DP575",
+        "icao": "PBD575",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "76",
+        "delay": 10,
+        "scheduled": "2025-02-20T14:00:00+00:00",
+        "estimated": "2025-02-20T14:00:00+00:00",
+        "actual": "2025-02-20T14:09:00+00:00",
+        "estimated_runway": "2025-02-20T14:09:00+00:00",
+        "actual_runway": "2025-02-20T14:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Domodedovo",
+        "timezone": "Europe/Moscow",
+        "iata": "DME",
+        "icao": "UUDD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "2",
+        "delay": null,
+        "scheduled": "2025-02-20T15:45:00+00:00",
+        "estimated": "2025-02-20T15:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "NordStar Airlines",
+        "iata": "Y7",
+        "icao": "TYA"
+      },
+      "flight": {
+        "number": "1062",
+        "iata": "Y71062",
+        "icao": "TYA1062",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73255",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E27"
+      },
+      "live": {
+        "updated": "2025-02-20T12:20:28+00:00",
+        "latitude": 55.3024,
+        "longitude": 38.1982,
+        "altitude": 1691.64,
+        "direction": 273,
+        "speed_horizontal": 385.216,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2025-02-20T09:05:00+00:00",
+        "estimated": "2025-02-20T09:05:00+00:00",
+        "actual": "2025-02-20T09:52:00+00:00",
+        "estimated_runway": "2025-02-20T09:52:00+00:00",
+        "actual_runway": "2025-02-20T09:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": 34,
+        "scheduled": "2025-02-20T09:40:00+00:00",
+        "estimated": "2025-02-20T09:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "505",
+        "iata": "5N505",
+        "icao": "AUL505",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73661",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151FBD"
+      },
+      "live": {
+        "updated": "2025-02-20T08:16:15+00:00",
+        "latitude": 55.0095,
+        "longitude": 20.8448,
+        "altitude": 891.54,
+        "direction": 186,
+        "speed_horizontal": 355.584,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "66",
+        "delay": 26,
+        "scheduled": "2025-02-20T09:00:00+00:00",
+        "estimated": "2025-02-20T09:00:00+00:00",
+        "actual": "2025-02-20T09:25:00+00:00",
+        "estimated_runway": "2025-02-20T09:25:00+00:00",
+        "actual_runway": "2025-02-20T09:25:00+00:00"
+      },
+      "arrival": {
+        "airport": null,
+        "timezone": null,
+        "iata": "DWC",
+        "icao": "OMDW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 7,
+        "scheduled": "2025-02-20T16:15:00+00:00",
+        "estimated": "2025-02-20T16:15:00+00:00",
+        "actual": "2025-02-20T16:22:00+00:00",
+        "estimated_runway": "2025-02-20T16:22:00+00:00",
+        "actual_runway": "2025-02-20T16:22:00+00:00"
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "764",
+        "iata": "SU764",
+        "icao": "AFL764",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73126",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151DA6"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "84",
+        "delay": 11,
+        "scheduled": "2025-02-20T08:45:00+00:00",
+        "estimated": "2025-02-20T08:45:00+00:00",
+        "actual": "2025-02-20T08:56:00+00:00",
+        "estimated_runway": "2025-02-20T08:56:00+00:00",
+        "actual_runway": "2025-02-20T08:56:00+00:00"
+      },
+      "arrival": {
+        "airport": "Ivanova",
+        "timezone": "Europe/Moscow",
+        "iata": "IWA",
+        "icao": "UUBI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T10:15:00+00:00",
+        "estimated": "2025-02-20T10:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Nordwind Airlines",
+        "iata": "N4",
+        "icao": "NWS"
+      },
+      "flight": {
+        "number": "393",
+        "iata": "N4393",
+        "icao": "NWS393",
+        "codeshared": {
+          "airline_name": "pegas fly",
+          "airline_iata": "ik",
+          "airline_icao": "kar",
+          "flight_number": "393",
+          "flight_iata": "ik393",
+          "flight_icao": "kar393"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "45",
+        "delay": null,
+        "scheduled": "2025-02-20T23:10:00+00:00",
+        "estimated": "2025-02-20T23:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T06:25:00+00:00",
+        "estimated": "2025-02-21T06:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "176",
+        "iata": "EK176",
+        "icao": "UAE176",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "62",
+        "delay": 31,
+        "scheduled": "2025-02-20T06:30:00+00:00",
+        "estimated": "2025-02-20T06:30:00+00:00",
+        "actual": "2025-02-20T07:00:00+00:00",
+        "estimated_runway": "2025-02-20T07:00:00+00:00",
+        "actual_runway": "2025-02-20T07:00:00+00:00"
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "12",
+        "delay": null,
+        "scheduled": "2025-02-20T10:35:00+00:00",
+        "estimated": "2025-02-20T10:35:00+00:00",
+        "actual": "2025-02-20T10:02:00+00:00",
+        "estimated_runway": "2025-02-20T10:02:00+00:00",
+        "actual_runway": "2025-02-20T10:02:00+00:00"
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "406",
+        "iata": "TK406",
+        "icao": "THY406",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TC-JRT",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "4BAA54"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": "57",
+        "delay": 34,
+        "scheduled": "2025-02-20T00:25:00+00:00",
+        "estimated": "2025-02-20T00:25:00+00:00",
+        "actual": "2025-02-20T00:58:00+00:00",
+        "estimated_runway": "2025-02-20T00:58:00+00:00",
+        "actual_runway": "2025-02-20T00:58:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2025-02-20T08:00:00+00:00",
+        "estimated": "2025-02-20T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "flydubai",
+        "iata": "FZ",
+        "icao": "FDB"
+      },
+      "flight": {
+        "number": "992",
+        "iata": "FZ992",
+        "icao": "FDB992",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A6-FPA",
+        "iata": "B38M",
+        "icao": "B38M",
+        "icao24": "8965C0"
+      },
+      "live": {
+        "updated": "2025-02-20T02:25:18+00:00",
+        "latitude": 34.9903,
+        "longitude": 51.5848,
+        "altitude": 11887.2,
+        "direction": 116,
+        "speed_horizontal": 992.672,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "69",
+        "delay": 12,
+        "scheduled": "2025-02-20T17:20:00+00:00",
+        "estimated": "2025-02-20T17:20:00+00:00",
+        "actual": "2025-02-20T17:32:00+00:00",
+        "estimated_runway": "2025-02-20T17:32:00+00:00",
+        "actual_runway": "2025-02-20T17:32:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dushanbe",
+        "timezone": "Asia/Dushanbe",
+        "iata": "DYU",
+        "icao": "UTDD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T00:20:00+00:00",
+        "estimated": "2025-02-21T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ural Airlines",
+        "iata": "U6",
+        "icao": "SVR"
+      },
+      "flight": {
+        "number": "8531",
+        "iata": "U68531",
+        "icao": "SVR8531",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73837",
+        "iata": "A21N",
+        "icao": "A21N",
+        "icao24": "15206D"
+      },
+      "live": {
+        "updated": "2025-02-20T16:19:31+00:00",
+        "latitude": 53.2693,
+        "longitude": 48.6024,
+        "altitude": 10043.2,
+        "direction": 136,
+        "speed_horizontal": 574.12,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "38",
+        "delay": 27,
+        "scheduled": "2025-02-20T07:55:00+00:00",
+        "estimated": "2025-02-20T07:55:00+00:00",
+        "actual": "2025-02-20T08:21:00+00:00",
+        "estimated_runway": "2025-02-20T08:21:00+00:00",
+        "actual_runway": "2025-02-20T08:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T08:55:00+00:00",
+        "estimated": "2025-02-20T08:55:00+00:00",
+        "actual": "2025-02-20T08:43:00+00:00",
+        "estimated_runway": "2025-02-20T08:43:00+00:00",
+        "actual_runway": "2025-02-20T08:43:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6323",
+        "iata": "FV6323",
+        "icao": "SDM6323",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "45",
+        "delay": 35,
+        "scheduled": "2025-02-20T15:15:00+00:00",
+        "estimated": "2025-02-20T15:15:00+00:00",
+        "actual": "2025-02-20T15:50:00+00:00",
+        "estimated_runway": "2025-02-20T15:50:00+00:00",
+        "actual_runway": "2025-02-20T15:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Zvartnots International",
+        "timezone": "Asia/Yerevan",
+        "iata": "EVN",
+        "icao": "UDYZ",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": 15,
+        "scheduled": "2025-02-20T20:30:00+00:00",
+        "estimated": "2025-02-20T20:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6925",
+        "iata": "FV6925",
+        "icao": "SDM6925",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": "86",
+        "delay": 14,
+        "scheduled": "2025-02-20T11:10:00+00:00",
+        "estimated": "2025-02-20T11:10:00+00:00",
+        "actual": "2025-02-20T11:23:00+00:00",
+        "estimated_runway": "2025-02-20T11:23:00+00:00",
+        "actual_runway": "2025-02-20T11:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Manas (Bishkek)",
+        "timezone": "Asia/Bishkek",
+        "iata": "FRU",
+        "icao": "UCFM",
+        "terminal": "5",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:25:00+00:00",
+        "estimated": "2025-02-20T19:25:00+00:00",
+        "actual": "2025-02-20T18:59:00+00:00",
+        "estimated_runway": "2025-02-20T18:59:00+00:00",
+        "actual_runway": "2025-02-20T18:59:00+00:00"
+      },
+      "airline": {
+        "name": "Avia Traffic Company",
+        "iata": "YK",
+        "icao": "AVJ"
+      },
+      "flight": {
+        "number": "880",
+        "iata": "YK880",
+        "icao": "AVJ880",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "EX-32014",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "60111C"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T08:45:00+00:00",
+        "estimated": "2025-02-20T08:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T09:40:00+00:00",
+        "estimated": "2025-02-20T09:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "589",
+        "iata": "DP589",
+        "icao": "PBD589",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T15:40:00+00:00",
+        "estimated": "2025-02-20T15:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": null,
+        "timezone": null,
+        "iata": "GDZ",
+        "icao": "URKG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T18:40:00+00:00",
+        "estimated": "2025-02-20T18:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "595",
+        "iata": "5N595",
+        "icao": "AUL595",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 24,
+        "scheduled": "2025-02-20T09:10:00+00:00",
+        "estimated": "2025-02-20T09:10:00+00:00",
+        "actual": "2025-02-20T09:34:00+00:00",
+        "estimated_runway": "2025-02-20T09:34:00+00:00",
+        "actual_runway": "2025-02-20T09:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Nizhniy Novgorod",
+        "timezone": "Europe/Moscow",
+        "iata": "GOJ",
+        "icao": "UWGG",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:10:00+00:00",
+        "estimated": "2025-02-20T11:10:00+00:00",
+        "actual": "2025-02-20T10:58:00+00:00",
+        "estimated_runway": "2025-02-20T10:58:00+00:00",
+        "actual_runway": "2025-02-20T10:58:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6105",
+        "iata": "FV6105",
+        "icao": "SDM6105",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": 58,
+        "scheduled": "2025-02-20T07:50:00+00:00",
+        "estimated": "2025-02-20T07:50:00+00:00",
+        "actual": "2025-02-20T08:47:00+00:00",
+        "estimated_runway": "2025-02-20T08:47:00+00:00",
+        "actual_runway": "2025-02-20T08:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": 15,
+        "scheduled": "2025-02-20T08:55:00+00:00",
+        "estimated": "2025-02-20T08:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "529",
+        "iata": "DP529",
+        "icao": "PBD529",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73226",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E0A"
+      },
+      "live": {
+        "updated": "2025-02-20T07:18:15+00:00",
+        "latitude": 55.001,
+        "longitude": 20.861,
+        "altitude": 899.16,
+        "direction": 136,
+        "speed_horizontal": 344.472,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 24,
+        "scheduled": "2025-02-20T16:05:00+00:00",
+        "estimated": "2025-02-20T16:05:00+00:00",
+        "actual": "2025-02-20T16:28:00+00:00",
+        "estimated_runway": "2025-02-20T16:28:00+00:00",
+        "actual_runway": "2025-02-20T16:28:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T17:05:00+00:00",
+        "estimated": "2025-02-20T17:05:00+00:00",
+        "actual": "2025-02-20T16:58:00+00:00",
+        "estimated_runway": "2025-02-20T16:58:00+00:00",
+        "actual_runway": "2025-02-20T16:58:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6329",
+        "iata": "FV6329",
+        "icao": "SDM6329",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "40",
+        "delay": 25,
+        "scheduled": "2025-02-20T16:50:00+00:00",
+        "estimated": "2025-02-20T16:50:00+00:00",
+        "actual": "2025-02-20T18:12:00+00:00",
+        "estimated_runway": "2025-02-20T18:12:00+00:00",
+        "actual_runway": "2025-02-20T18:12:00+00:00"
+      },
+      "arrival": {
+        "airport": "Nizhniy Novgorod",
+        "timezone": "Europe/Moscow",
+        "iata": "GOJ",
+        "icao": "UWGG",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 46,
+        "scheduled": "2025-02-20T18:50:00+00:00",
+        "estimated": "2025-02-20T18:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6107",
+        "iata": "FV6107",
+        "icao": "SDM6107",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 19,
+        "scheduled": "2025-02-20T10:55:00+00:00",
+        "estimated": "2025-02-20T10:55:00+00:00",
+        "actual": "2025-02-20T11:13:00+00:00",
+        "estimated_runway": "2025-02-20T11:13:00+00:00",
+        "actual_runway": "2025-02-20T11:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T11:55:00+00:00",
+        "estimated": "2025-02-20T11:55:00+00:00",
+        "actual": "2025-02-20T11:34:00+00:00",
+        "estimated_runway": "2025-02-20T11:34:00+00:00",
+        "actual_runway": "2025-02-20T11:34:00+00:00"
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6325",
+        "iata": "FV6325",
+        "icao": "SDM6325",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": null,
+        "gate": null,
+        "delay": 40,
+        "scheduled": "2025-02-20T18:15:00+00:00",
+        "estimated": "2025-02-20T18:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Saratov Gagarin Airport",
+        "timezone": null,
+        "iata": "GSV",
+        "icao": "UWSG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T21:30:00+00:00",
+        "estimated": "2025-02-20T21:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pobeda",
+        "iata": "DP",
+        "icao": "PBD"
+      },
+      "flight": {
+        "number": "577",
+        "iata": "DP577",
+        "icao": "PBD577",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73226",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151E0A"
+      },
+      "live": {
+        "updated": "2025-02-20T16:19:43+00:00",
+        "latitude": 59.4543,
+        "longitude": 31.8159,
+        "altitude": 9212.58,
+        "direction": 126,
+        "speed_horizontal": 859.328,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "unknown",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:15:00+00:00",
+        "estimated": "2025-02-20T13:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Khrabrovo",
+        "timezone": "Europe/Kaliningrad",
+        "iata": "KGD",
+        "icao": "UMKK",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T13:55:00+00:00",
+        "estimated": "2025-02-20T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "533",
+        "iata": "5N533",
+        "icao": "AUL533",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "51",
+        "delay": null,
+        "scheduled": "2025-02-20T06:55:00+00:00",
+        "estimated": "2025-02-20T06:55:00+00:00",
+        "actual": "2025-02-20T06:54:00+00:00",
+        "estimated_runway": "2025-02-20T06:54:00+00:00",
+        "actual_runway": "2025-02-20T06:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Izhevsk",
+        "timezone": "Europe/Samara",
+        "iata": "IJK",
+        "icao": "USII",
+        "terminal": "B",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T10:05:00+00:00",
+        "estimated": "2025-02-20T10:05:00+00:00",
+        "actual": "2025-02-20T09:41:00+00:00",
+        "estimated_runway": "2025-02-20T09:41:00+00:00",
+        "actual_runway": "2025-02-20T09:41:00+00:00"
+      },
+      "airline": {
+        "name": "Izhavia",
+        "iata": "I8",
+        "icao": "IZA"
+      },
+      "flight": {
+        "number": "924",
+        "iata": "I8924",
+        "icao": "IZA924",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73184",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151DE0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "76",
+        "delay": 1,
+        "scheduled": "2025-02-20T00:30:00+00:00",
+        "estimated": "2025-02-20T00:30:00+00:00",
+        "actual": "2025-02-20T00:30:00+00:00",
+        "estimated_runway": "2025-02-20T00:30:00+00:00",
+        "actual_runway": "2025-02-20T00:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T05:40:00+00:00",
+        "estimated": "2025-02-20T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AZAL Azerbaijan Airlines",
+        "iata": "J2",
+        "icao": "AHY"
+      },
+      "flight": {
+        "number": "20",
+        "iata": "J220",
+        "icao": "AHY20",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "4K-AZ80",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "600850"
+      },
+      "live": {
+        "updated": "2025-02-20T01:15:16+00:00",
+        "latitude": 40.8525,
+        "longitude": 50.3493,
+        "altitude": 5006.34,
+        "direction": 181,
+        "speed_horizontal": 625.976,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-20T17:00:00+00:00",
+        "estimated": "2025-02-20T17:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Pashkovsky",
+        "timezone": "Europe/Moscow",
+        "iata": "KRR",
+        "icao": "URKK",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T19:55:00+00:00",
+        "estimated": "2025-02-20T19:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Smartavia",
+        "iata": "5N",
+        "icao": "AUL"
+      },
+      "flight": {
+        "number": "585",
+        "iata": "5N585",
+        "icao": "AUL585",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "76",
+        "delay": 1,
+        "scheduled": "2025-02-20T00:30:00+00:00",
+        "estimated": "2025-02-20T00:30:00+00:00",
+        "actual": "2025-02-20T00:30:00+00:00",
+        "estimated_runway": "2025-02-20T00:30:00+00:00",
+        "actual_runway": "2025-02-20T00:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T05:40:00+00:00",
+        "estimated": "2025-02-20T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "S7 Airlines",
+        "iata": "S7",
+        "icao": "SBI"
+      },
+      "flight": {
+        "number": "4105",
+        "iata": "S74105",
+        "icao": "SBI4105",
+        "codeshared": {
+          "airline_name": "azal azerbaijan airlines",
+          "airline_iata": "j2",
+          "airline_icao": "ahy",
+          "flight_number": "20",
+          "flight_iata": "j220",
+          "flight_icao": "ahy20"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "76",
+        "delay": 19,
+        "scheduled": "2025-02-20T10:50:00+00:00",
+        "estimated": "2025-02-20T10:50:00+00:00",
+        "actual": "2025-02-20T11:08:00+00:00",
+        "estimated_runway": "2025-02-20T11:08:00+00:00",
+        "actual_runway": "2025-02-20T11:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-20T16:10:00+00:00",
+        "estimated": "2025-02-20T16:10:00+00:00",
+        "actual": "2025-02-20T15:53:00+00:00",
+        "estimated_runway": "2025-02-20T15:53:00+00:00",
+        "actual_runway": "2025-02-20T15:53:00+00:00"
+      },
+      "airline": {
+        "name": "UTair Aviation",
+        "iata": "UT",
+        "icao": "UTA"
+      },
+      "flight": {
+        "number": "731",
+        "iata": "UT731",
+        "icao": "UTA731",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73087",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "151D7F"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "42",
+        "delay": null,
+        "scheduled": "2025-02-20T22:40:00+00:00",
+        "estimated": "2025-02-20T22:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Krasnojarsk",
+        "timezone": "Asia/Krasnoyarsk",
+        "iata": "KJA",
+        "icao": "UNKL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T07:20:00+00:00",
+        "estimated": "2025-02-21T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6573",
+        "iata": "FV6573",
+        "icao": "SDM6573",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "79",
+        "delay": 25,
+        "scheduled": "2025-02-20T17:45:00+00:00",
+        "estimated": "2025-02-20T17:45:00+00:00",
+        "actual": "2025-02-20T18:10:00+00:00",
+        "estimated_runway": "2025-02-20T18:10:00+00:00",
+        "actual_runway": "2025-02-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-21T07:40:00+00:00",
+        "estimated": "2025-02-21T07:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pegas Fly",
+        "iata": "IK",
+        "icao": "KAR"
+      },
+      "flight": {
+        "number": "3483",
+        "iata": "IK3483",
+        "icao": "KAR3483",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "39",
+        "delay": 8,
+        "scheduled": "2025-02-20T07:50:00+00:00",
+        "estimated": "2025-02-20T07:50:00+00:00",
+        "actual": "2025-02-20T07:57:00+00:00",
+        "estimated_runway": "2025-02-20T07:57:00+00:00",
+        "actual_runway": "2025-02-20T07:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Krasnojarsk",
+        "timezone": "Asia/Krasnoyarsk",
+        "iata": "KJA",
+        "icao": "UNKL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 8,
+        "scheduled": "2025-02-20T16:25:00+00:00",
+        "estimated": "2025-02-20T16:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rossiya Airlines",
+        "iata": "FV",
+        "icao": "SDM"
+      },
+      "flight": {
+        "number": "6475",
+        "iata": "FV6475",
+        "icao": "SDM6475",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-02-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pulkovo",
+        "timezone": "Europe/Moscow",
+        "iata": "LED",
+        "icao": "ULLI",
+        "terminal": "1",
+        "gate": "75",
+        "delay": 42,
+        "scheduled": "2025-02-20T03:15:00+00:00",
+        "estimated": "2025-02-20T03:15:00+00:00",
+        "actual": "2025-02-20T03:56:00+00:00",
+        "estimated_runway": "2025-02-20T03:56:00+00:00",
+        "actual_runway": "2025-02-20T03:56:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hurghada",
+        "timezone": "Africa/Cairo",
+        "iata": "HRG",
+        "icao": "HEGN",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 3,
+        "scheduled": "2025-02-20T09:30:00+00:00",
+        "estimated": "2025-02-20T09:30:00+00:00",
+        "actual": "2025-02-20T09:32:00+00:00",
+        "estimated_runway": "2025-02-20T09:32:00+00:00",
+        "actual_runway": "2025-02-20T09:32:00+00:00"
+      },
+      "airline": {
+        "name": "Aeroflot",
+        "iata": "SU",
+        "icao": "AFL"
+      },
+      "flight": {
+        "number": "732",
+        "iata": "SU732",
+        "icao": "AFL732",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "RA-73783",
+        "iata": "A333",
+        "icao": "A333",
+        "icao24": "152037"
+      },
+      "live": null
+    }
+  ]
+}
