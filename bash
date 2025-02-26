@@ -1,16 +1,7 @@
-wget http://ftp.debian.org/debian/pool/main/d/dpkg/dpkg_1.21.22.tar.xz
-tar -xf dpkg_1.21.22.tar.xz
-cd dpkg-1.21.22
-
-./configure --prefix=/usr
-make
-make install
-cd ..
-
-wget http://ftp.debian.org/debian/pool/main/a/apt/apt_2.2.4.tar.xz
-tar -xf apt_2.2.4.tar.xz
-cd apt-2.2.4
-
-./configure --prefix=/usr
-make
-make install
+docker run --rm \
+  -v "$(pwd)/certbot/conf:/etc/letsencrypt" \
+  -v "$(pwd)/certbot/www:/var/www/certbot" \
+  certbot/certbot certonly \
+  --webroot --webroot-path=/var/www/certbot \
+  -d your-domain.com \
+  --email your-email@example.com --agree-tos --no-eff-email
