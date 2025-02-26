@@ -10,6 +10,9 @@ services:
     restart: unless-stopped
     ports:
       - "5000:5000"
+    volumes:
+      - ./certs/selfsigned.crt:/etc/ssl/certs/selfsigned.crt:ro
+      - ./certs/selfsigned.key:/etc/ssl/private/selfsigned.key:ro
     environment:
       - NODE_ENV=production
 
