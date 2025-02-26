@@ -3,8 +3,6 @@ const axios = require('axios');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const db = require('./db');
-const https = require('https');
-const fs = require('fs');
 
 const app = express();
 app.use(express.json());
