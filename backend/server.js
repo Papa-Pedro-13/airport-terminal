@@ -5,9 +5,20 @@ const axios = require('axios');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const db = require('./db');
+const rateLimit = require('express-rate-limit');
 
 const app = express();
 app.use(express.json());
+
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 минут
+  max: 1000, // Максимум 100 запросов
+  message: 'Слишком много запросов с вашего IP, попробуйте позже.',
+  headers: true, // Отправлять заголовки X-RateLimit-*
+});
+
+// Применить ко всем роутам
+app.use(limiter);
 
 const cors = require('cors');
 
