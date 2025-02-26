@@ -9,15 +9,15 @@ app.use(express.json());
 
 const cors = require('cors');
 
-// Разрешить запросы с любого origin (для разработки)
-app.use(cors());
-app.options('*', cors()); // Разрешить предварительные запросы для всех маршрутов
-// app.use(cors({
-//   origin: 'http://localhost:3001', // Укажите адрес вашего фронтенда
-//   methods: ['GET', 'POST', 'PUT', 'DELETE'],
-//   allowedHeaders: ['Content-Type', 'Authorization'],
-// }));
+const corsOptions = {
+  origin: ['http://localhost:80', 'https://localhost:443'],
+  methods: 'GET,POST,PUT,DELETE',
+  allowedHeaders: 'Content-Type,Authorization',
+  credentials: true,
+};
 
+app.use(cors(corsOptions)); // Применить CORS ко всем маршрутам
+app.options('*', cors(corsOptions)); // Разрешить предварительные запросы для всех маршрутов
 
 // API ключи
 const WEATHER_API_KEY = 'fee3e59b950cf1055d21f6054244e2ab';
