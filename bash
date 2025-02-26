@@ -1,7 +1,7 @@
-docker run --rm \
-  -v "$(pwd)/certbot/conf:/etc/letsencrypt" \
-  -v "$(pwd)/certbot/www:/var/www/certbot" \
-  certbot/certbot certonly \
-  --webroot --webroot-path=/var/www/certbot \
-  -d your-domain.com \
-  --email your-email@example.com --agree-tos --no-eff-email
+mkdir -p certs
+cd certs
+
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
+  -keyout selfsigned.key \
+  -out selfsigned.crt \
+  -subj "/CN=192.168.200.136"

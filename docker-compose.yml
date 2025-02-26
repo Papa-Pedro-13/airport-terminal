@@ -13,20 +13,13 @@ services:
   frontend:
     build: ./frontend
     container_name: frontend
+    read_only: true
     restart: unless-stopped
     ports:
       - "80:80"
       - "443:443"
     volumes:
-      - ./certbot/conf:/etc/letsencrypt
-      - ./certbot/www:/var/www/certbot
+      - ./certs/selfsigned.crt:/etc/ssl/certs/selfsigned.crt:ro
+      - ./certs/selfsigned.key:/etc/ssl/private/selfsigned.key:ro
     depends_on:
       - backend
-
-  certbot:
-    image: certbot/certbot
-    container_name: certbot
-    volumes:
-      - ./certbot/conf:/etc/letsencrypt
-      - ./certbot/www:/var/www/certbot
-    entrypoint: /bin/sh -c "trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done"
