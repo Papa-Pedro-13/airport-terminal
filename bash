@@ -17,4 +17,5 @@ iptables -A INPUT -p tcp --dport 443 -j ACCEPT
 iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 iptables -A INPUT -p tcp --dport 5000 -j ACCEPT
 iptables -A OUTPUT -m state --state NEW,ESTABLISHED,RELATED -j ACCEPT
+iptables -t nat -A POSTROUTING -o enp2s1 -j MASQUERADE
 iptables -A INPUT -j DROP
