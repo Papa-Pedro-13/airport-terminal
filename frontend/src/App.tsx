@@ -20,6 +20,10 @@ const App: React.FC = () => {
     }
   }, [token]);
 
+  const handleClickLogout = () => {
+    localStorage.removeItem('token');
+  };
+
   if (!token) {
     return <Login onLogin={setToken} />;
   }
@@ -28,6 +32,12 @@ const App: React.FC = () => {
     <div className='app'>
       <div className='weather-header'>
         <WeatherComponent token={token} />
+        <button
+          className='button'
+          onClick={handleClickLogout}
+        >
+          Выйти
+        </button>
       </div>
 
       <div className='flights-content'>
