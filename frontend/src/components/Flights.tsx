@@ -9,7 +9,7 @@ interface FlightsProps {
 const Flights: React.FC<FlightsProps> = ({ token }) => {
   const [flights, setFlights] = useState<any[]>([]);
   const [pagination, setPagination] = useState({
-    limit: 10,
+    limit: 100,
     offset: 0,
     count: 0,
     total: 0,

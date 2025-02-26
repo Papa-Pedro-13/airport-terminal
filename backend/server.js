@@ -6,6 +6,8 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const db = require('./db');
 const rateLimit = require('express-rate-limit');
+const filterXSS = require('xss');
+
 
 const app = express();
 app.use(express.json());
@@ -56,7 +58,8 @@ function authenticateToken(req, res, next) {
 
 // Маршрут для авторизации
 app.post('/login', async (req, res) => {
-  const { username, password } = req.body;
+  const username = xss(req.body.username);
+  const password = xss(req.body.password);
 
   if (!username || !password) {
     return res.status(400).json({ message: 'Username and password are required' });
