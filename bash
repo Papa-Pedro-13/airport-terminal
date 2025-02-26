@@ -16,4 +16,5 @@ iptables -A INPUT -p tcp --tcp-flags FIN,PSH,URG FIN,PSH,URG -j DROP
 iptables -A INPUT -p tcp --dport 443 -j ACCEPT
 iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 iptables -A INPUT -p tcp --dport 5000 -j ACCEPT
+iptables -A OUTPUT -m state --state NEW,ESTABLISHED,RELATED -j ACCEPT
 iptables -A INPUT -j DROP
