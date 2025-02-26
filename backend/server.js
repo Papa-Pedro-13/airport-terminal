@@ -11,10 +11,10 @@ const app = express();
 app.use(express.json());
 
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 минут
-  max: 1000, // Максимум 100 запросов
+  windowMs: 15 * 60 * 1000,
+  max: 1000,
   message: 'Слишком много запросов с вашего IP, попробуйте позже.',
-  headers: true, // Отправлять заголовки X-RateLimit-*
+  headers: true,
 });
 
 // Применить ко всем роутам
