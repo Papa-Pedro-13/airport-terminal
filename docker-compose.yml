@@ -4,6 +4,8 @@ services:
   backend:
     build: ./backend
     container_name: backend
+    security_opt:   
+      - "no-new-privileges=true"
     image: alex082/backend:1.0
     restart: unless-stopped
     ports:
@@ -13,6 +15,8 @@ services:
 
   frontend:
     build: ./frontend
+    security_opt:
+      - "no-new-privileges=true"
     container_name: frontend
     image: alex082/frontend:1.0
     restart: unless-stopped
