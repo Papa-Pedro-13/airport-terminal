@@ -11,15 +11,20 @@ app.use(express.json());
 
 const cors = require('cors');
 
-const options = {
-  key: fs.readFileSync('/etc/ssl/private/selfsigned.key'), // Путь к приватному ключу
-  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt'), // Путь к сертификату
+const corsOptions = {
+  origin: ['http://192.168.200.136', 'https://192.168.200.136'],
+  methods: 'GET,POST,PUT,DELETE',
+  allowedHeaders: 'Content-Type,Authorization',
+  credentials: true,
 };
 
+app.use(cors(corsOptions)); // Применить CORS ко всем маршрутам
+app.options('*', cors(corsOptions)); // 
 
 
-app.use(cors()); // Применить CORS ко всем маршрутам
-app.options('*', cors()); // Разрешить предварительные запросы для всех маршрутов
+
+// app.use(cors()); // Применить CORS ко всем маршрутам
+// app.options('*', cors()); // Разрешить предварительные запросы для всех маршрутов
 
 // API ключи
 const WEATHER_API_KEY = 'fee3e59b950cf1055d21f6054244e2ab';
