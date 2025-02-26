@@ -17,15 +17,9 @@ const options = {
 };
 
 
-const corsOptions = {
-  origin: ['http://localhost:80', 'https://localhost:443', 'https://192.168.200.136'],
-  methods: 'GET,POST,PUT,DELETE',
-  allowedHeaders: 'Content-Type,Authorization',
-  credentials: true,
-};
 
-app.use(cors(corsOptions)); // Применить CORS ко всем маршрутам
-app.options('*', cors(corsOptions)); // Разрешить предварительные запросы для всех маршрутов
+app.use(cors()); // Применить CORS ко всем маршрутам
+app.options('*', cors()); // Разрешить предварительные запросы для всех маршрутов
 
 // API ключи
 const WEATHER_API_KEY = 'fee3e59b950cf1055d21f6054244e2ab';
@@ -97,6 +91,6 @@ app.get('/flights', authenticateToken, async (req, res) => {
 
 // Запуск сервера
 const PORT = 5000;
-https.createServer(options, app).listen(PORT, () => {
+app.listen(PORT, () => {
   console.log(`Server is running on https://localhost:${PORT}`);
 });
