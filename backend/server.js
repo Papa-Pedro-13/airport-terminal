@@ -3,11 +3,19 @@ const axios = require('axios');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const db = require('./db');
+const https = require('https');
+const fs = require('fs');
 
 const app = express();
 app.use(express.json());
 
 const cors = require('cors');
+
+const options = {
+  key: fs.readFileSync('/etc/ssl/private/selfsigned.key'), // Путь к приватному ключу
+  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt'), // Путь к сертификату
+};
+
 
 const corsOptions = {
   origin: ['http://localhost:80', 'https://localhost:443'],
@@ -89,6 +97,6 @@ app.get('/flights', authenticateToken, async (req, res) => {
 
 // Запуск сервера
 const PORT = 5000;
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+https.createServer(options, app).listen(PORT, () => {
+  console.log(`Server is running on https://localhost:${PORT}`);
 });

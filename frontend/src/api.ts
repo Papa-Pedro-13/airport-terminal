@@ -1,7 +1,6 @@
 import axios from 'axios';
-import { Flights, Weather } from './types';
 
-const API_URL = 'http://192.168.200.136:5000';
+const API_URL = 'https://192.168.200.136:5000';
 
 export const login = async (username: string, password: string) => {
   const response = await axios.post(`${API_URL}/login`, { username, password });
