@@ -18,7 +18,7 @@ const options = {
 
 
 const corsOptions = {
-  origin: ['http://localhost:80', 'https://localhost:443'],
+  origin: ['http://localhost:80', 'https://localhost:443', 'https://192.168.200.136'],
   methods: 'GET,POST,PUT,DELETE',
   allowedHeaders: 'Content-Type,Authorization',
   credentials: true,
