@@ -13,7 +13,6 @@ services:
   frontend:
     build: ./frontend
     container_name: frontend
-    read_only: true
     restart: unless-stopped
     ports:
       - "80:80"
