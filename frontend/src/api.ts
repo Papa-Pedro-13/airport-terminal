@@ -9,15 +9,15 @@ export const login = async (username: string, password: string) => {
 };
 
 export const getWeather = async (token: string) => {
-  // const response = await axios.get(`${API_URL}/weather`, {
-  //   headers: { Authorization: `Bearer ${token}` },
-  // });
-  // return response.data;
-
-  const response = await axios.get<Weather>('/weather.json', {
+  const response = await axios.get(`${API_URL}/weather`, {
     headers: { Authorization: `Bearer ${token}` },
   });
   return response.data;
+
+  // const response = await axios.get<Weather>('/weather.json', {
+  //   headers: { Authorization: `Bearer ${token}` },
+  // });
+  // return response.data;
 };
 
 export const getFlights = async (
@@ -25,16 +25,19 @@ export const getFlights = async (
   limit: number,
   offset: number
 ) => {
-  // const response = await axios.get(`${API_URL}/flights`, {
-  //   headers: { Authorization: `Bearer ${token}` },
-  // });
-  // return response.data;
-
-  const response = await axios.get<Flights>(
-    `/flights.json?limit=${limit}&offset=${offset}`,
+  const response = await axios.get(
+    `${API_URL}/flights?limit=${limit}&offset=${offset}`,
     {
       headers: { Authorization: `Bearer ${token}` },
     }
   );
   return response.data;
+
+  // const response = await axios.get<Flights>(
+  //   `/flights.json?limit=${limit}&offset=${offset}`,
+  //   {
+  //     headers: { Authorization: `Bearer ${token}` },
+  //   }
+  // );
+  // return response.data;
 };
